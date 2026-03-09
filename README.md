@@ -1,1 +1,0 @@
-# Genrative_AI
