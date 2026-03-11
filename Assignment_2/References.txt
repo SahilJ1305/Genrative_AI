@@ -1,0 +1,5 @@
+References
+
+1.https://www.ibm.com/think/topics/prompt-engineering-techniques#7281536
+
+2.https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week2_prompting.md
